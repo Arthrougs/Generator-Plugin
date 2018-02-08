@@ -1,0 +1,10 @@
+name: shopGUI
+main: me.arthrougs.shopGUI
+version: 1.0
+commands:
+   adminshop:
+      description: Blank description.
+      usage:
+   msi:
+      description: Blank description.
+      usage:

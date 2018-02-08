@@ -1,0 +1,7 @@
+name: testPlugin
+main: me.arthrougs.testPlugin
+version: 1.0
+commands:
+   herro:
+      description: Says Hello
+      usage: /<command>

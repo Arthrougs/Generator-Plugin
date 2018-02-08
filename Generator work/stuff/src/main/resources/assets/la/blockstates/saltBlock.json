@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "la:saltBlock" },
+            { "model": "la:saltBlock", "y": 90 },
+            { "model": "la:saltBlock", "y": 180 },
+            { "model": "la:saltBlock", "y": 270 }
+        ]
+    }
+}

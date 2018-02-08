@@ -1,0 +1,31 @@
+item.copperIngot.name=Copper Ingot
+item.nickelIngot.name=Nickel Ingot
+item.rubyStone.name=Ruby
+item.sapphireStone.name=Sapphire
+item.saltDust.name=Salt
+
+item.copperPickaxe.name=Copper Pickaxe
+item.copperAxe.name=Copper Axe
+item.copperSpade.name=Copper Shovel
+item.copperHoe.name=Copper Hoe
+item.copperSword.name=Copper Sword
+item.nickelPickaxe.name=Nickel Pickaxe
+item.nickelAxe.name=Nickel Axe
+item.nickelSpade.name=Nickel Shovel
+item.nickelHoe.name=Nickel Hoe
+item.nickelSword.name=Nickel Sword
+
+tile.copperOre.name=Copper Ore
+tile.nickelOre.name=Nickel Ore
+tile.rubyOre.name=Ruby Ore
+tile.saltOre.name=Salt Ore
+
+
+tile.copperBlock.name=Copper Block
+tile.nickelBlock.name=Nickel Block
+tile.rubyBlock.name=Ruby Block
+tile.sapphireBlock.name=Sapphire Block
+tile.saltBlock.name=Salt Block
+tile.burntSaltBlock.name=Burnt Salt Block
+
+itemGroup.laCreativeTab=Lightning Arc
